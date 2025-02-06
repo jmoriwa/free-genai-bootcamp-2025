@@ -1,11 +1,9 @@
-## ChatGPT Powered Assistant Guide
+## MetaAI powered Assistant Guide
 
-## Which Model
+## which Model
+Meta.ai is using Llama 3 70B
 
-GPT 4o
+## Prompting Guides
+https://www.llama.com/docs/how-to-guides/prompting/
 
-I have paid version of ChatGPT.
-01 is slower
-
-### Prompting Guides
-https://platform.openai.com/docs/guides/prompt-engineering
+Llama has no special prompting requirements
