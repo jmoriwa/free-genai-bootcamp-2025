@@ -29,6 +29,21 @@ The formatted output will generally contain three parts:
 
 ### Sentence Structures
 - Do not provide particles in the sentence structure
+- Do not provide tenses or comjugations in the sentence structure
+- remember to consider beginer level intructions
+
+Here is an example of simple sentence structures
+- [Location] [Subject] [Verb]. → 公園に猫がいる。 (There is a cat in the park.)
+- [Location] [Subject] [Object] [Verb]. → 図書館で本を読む。 (I read a book at the library.)
+- [Time] [Subject] [Object] [Verb]. → 朝ごはんを食べる。 (I eat breakfast.)
+- [Subject] [Object] [Verb] か？ → これは新しい本ですか？ (Is this a new book?)
+- [Question Word] [Subject] [Object] [Verb] か？ → どこで昼ごはんを食べますか？ (Where do you eat lunch?)
+- [Time] [Subject] [Object] [Verb]. → 昨日、映画を見た。 (Yesterday, I watched a movie.)
+- [Location] [Subject] [Verb]. → ここにカフェがあった。 (There was a café here.)
+- [Subject] [Object] [Verb] か？ → もう宿題を終わりましたか？ (Did you finish your homework?)
+- [Sentence 1], そして [Sentence 2]. → 朝ごはんを食べた、そして学校へ行った。 (I ate breakfast, and then I went to school.)
+- [Reason] から, [Result]. → 雨が降っているから、外に行かない。 (Because it's raining, I won’t go outside.)
+- [Sentence 1] けど, [Sentence 2]. → 映画を見たけど、面白くなかった。 (I watched a movie, but it wasn’t interesting.)
 
 ### Clues and Considerations
 - Try and provide a non-nested bulleted list
